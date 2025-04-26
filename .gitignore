@@ -1,0 +1,43 @@
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore datasets
+creditcard.csv
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Jupyter runtime
+*.log
+*.sqlite3
+
+# Mac system files
+.DS_Store
+
+# Jupyter runtime
+*.log
+*.sqlite3
+
+# Temporary/editor files
+*.swp
+
+
+# Temporary/editor files
+*.swp
+
+# Ignore models (optional)
+models/
